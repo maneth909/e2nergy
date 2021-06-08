@@ -16,7 +16,6 @@ class _HomePageState extends State<HomePage> {
     HomeAndMenu(),
     Search(),
     Favorite(),];
-//  GlobalKey<ScaffoldState> _globalKey = GlobalKey<ScaffoldState>();
 
   @override
   Widget build(BuildContext context) {
