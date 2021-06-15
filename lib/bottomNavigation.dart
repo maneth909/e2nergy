@@ -21,7 +21,6 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-//          key: _globalKey,
         appBar: AppBar(
           title: Text('E2nergy',style: TextStyle(color:Colors.black),),
           iconTheme: IconThemeData(color: Colors.black),
