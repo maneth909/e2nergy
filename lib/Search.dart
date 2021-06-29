@@ -1,4 +1,5 @@
 import"package:flutter/material.dart";
+import 'package:flutter/cupertino.dart';
 import 'package:e2nergy/bottomNavigation.dart';
 
 class Search extends StatefulWidget {
@@ -9,9 +10,6 @@ class Search extends StatefulWidget {
 class _SearchState extends State<Search> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-
-    );
+    return Container();
   }
 }
-
