@@ -34,7 +34,7 @@ class _FirstPageState extends State<FirstPage> {
                )
              )
            ),
-            Center(child: Text('Hello', style: TextStyle(
+            Center(child: Text('Hellooo', style: TextStyle(
               fontSize: 30,
               fontFamily: 'Sriracha',
             ))),
