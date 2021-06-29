@@ -34,7 +34,7 @@ class _FirstPageState extends State<FirstPage> {
                )
              )
            ),
-            Center(child: Text('Choose Language', style: TextStyle(
+            Center(child: Text('Hello', style: TextStyle(
               fontSize: 30,
               fontFamily: 'Sriracha',
             ))),
